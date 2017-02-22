@@ -6,7 +6,7 @@ This chrome extension adds an `Open All` button in GitHub's notifications view w
 
 ## Installation
 
-Simply install the extension directly from the Chrome Store:
+Simply install the extension directly from the Chrome Store: https://chrome.google.com/webstore/detail/github-open-all-notificat/edokpcnamcnjbigjpdhgmpaedbmcaijd
 
 ## Known limitation
 
