@@ -17,3 +17,5 @@ The button only appears on page load. If a user clicks the notification button o
 Pull requests are welcome as well as issues reporting problems or providing feedback.
 
 The extension is extremely simple and as such it doesn't include a package manager and/or build tool. To develop the extension simply clone the repository and load the unpacked extensions directly into Google Chrome.
+
+:octocat::heart:
