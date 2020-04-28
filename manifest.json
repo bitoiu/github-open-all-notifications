@@ -1,6 +1,6 @@
 {
   "name": "GitHub Open All Notifications",
-  "version": "0.1",
+  "version": "2.0",
   "manifest_version": 2,
   "description": "This extension adds a button to the notifications pages that when clicked will open every unread notification into a new chrome tab.",
   "homepage_url": "https://github.com/bitoiu/github-open-all-notifications",
